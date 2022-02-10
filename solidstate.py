@@ -3,17 +3,20 @@ import requests
 import threading
 import paramiko
 
-print("""
- _             _             ___  _____ 
-| |           (_)           |__ \| ____|
-| | _____ _ __ _  __ _  __ _   ) | |__  
-| |/ / _ \ '__| |/ _` |/ _` | / /|___ \ 
-|   <  __/ |  | | (_| | (_| |/ /_ ___) |
-|_|\_\___|_|  | |\__,_|\__, |____|____/ 
-             _/ |       __/ |           
-            |__/       |___/       
-""")
-print('KERJAG25 - SOLIDSTATE HACKTHEBOX AUTOPWN\n')
+print('''   _                            _                 _      _ _  _   ''')
+time.sleep(0.1)
+print('''  (_) __ _  __ _  __ _  ___  __| |_ __ ___  _   _| | ___/ | || |  ''')
+time.sleep(0.1)
+print('''  | |/ _` |/ _` |/ _` |/ _ \/ _` | '_ ` _ \| | | | |/ _ \ | || |_ ''')
+time.sleep(0.1)
+print('''  | | (_| | (_| | (_| |  __/ (_| | | | | | | |_| | |  __/ |__   _|''')
+time.sleep(0.1)
+print(''' _/ |\__,_|\__, |\__, |\___|\__,_|_| |_| |_|\__,_|_|\___|_|  |_|  ''')
+time.sleep(0.1)
+print('''|__/       |___/ |___/                                            ''')
+time.sleep(0.1)
+
+print('JAGGEDMULE14 - SOLIDSTATE HACKTHEBOX AUTOPWN\n')
 
 port = 4444
 portb = 4445
