@@ -1,6 +1,5 @@
 # SolidState-HackTheBox-Autopwn
-# Shoppy-Hackthebox-Autopwn
-Autopwn de la máquina Shoppy Hackthebox.
+Autopwn de la máquina SolidState Hackthebox.
 
 # Usage
 `git clone https://github.com/jaggedmule14/SolidState-HackTheBox-Autopwn.git` </br>
